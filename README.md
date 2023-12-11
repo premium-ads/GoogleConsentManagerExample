@@ -1,3 +1,3 @@
 # GoogleConsentManagerExample
 
-GDPR demo app using Google Consent Manager SDK - PremiumAds
+Demo app using Google Consent Manager SDK - PremiumAds
